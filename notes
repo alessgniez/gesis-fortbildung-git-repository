@@ -1,1 +1,5 @@
 this one is main: My favorite fruit is apple
+<<<<<<< HEAD
+=======
+this one is a: My favorite fuit is an banana
+>>>>>>> branch-a
